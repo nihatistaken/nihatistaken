@@ -12,7 +12,7 @@
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=nihatistaken&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
   <br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nihatistaken&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nihatistaken&commits_year=2025&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
   <br> 
 </div>
 <br><br>
